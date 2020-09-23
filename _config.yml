@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Alyssa Rahmat # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  A data scientist at heart. I finished my M.S. in applied analytics with a concentration in data science from Columnbia University. I have a B.A. in Math and Econ from Fordham University. Currently, I am a data analyst at AWS.
   <br><br>
-  Second description 
+  I am really interested in the mathematics field of stochastic process and baysian statistics. I have strong experience of using various classification models of machine learning with highly unbalanced data.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dilireba-rehemaiti-7a3473157/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/dilrabarr">View My Github Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
